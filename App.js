@@ -6,7 +6,7 @@ import { createDrawerNavigator } from '@react-navigation/drawer';
 import { Ionicons } from '@expo/vector-icons';
 
 import CategoriesScreen from './screens/CategoriesScreen';
-import MealsOverviewScreen from './screens/MealsOverviewScreen';
+import MealsOverviewScreen from './screens/MealsOverViewScreen';
 import MealDetailScreen from './screens/MealDetailScreen';
 import FavoritesScreen from './screens/FavoritesScreen';
 
